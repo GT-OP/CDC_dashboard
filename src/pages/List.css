@@ -1,0 +1,6 @@
+/* style="--bs-btn-padding-y: .2 --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;"  */
+#btnstyle{
+    --bs-btn-padding-y: .2;
+    --bs-btn-padding-x: .5rem;
+     --bs-btn-font-size: .75rem;
+}
